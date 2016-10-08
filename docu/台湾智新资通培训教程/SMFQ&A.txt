@@ -1,0 +1,54 @@
+ SMF Q&A
+跳轉到: 導覽, 搜尋
+
+Q1:請問SMF跟哪些提供影片服務平台整合?
+
+    目前提供與Youtube/Vimeo/Brightcove等平台廠商整合 
+
+Q2:請問SMF跟哪些提供相本服務平台整合?
+
+    目前提供與Picasa/Ficker等平台廠商整合 
+
+Q3:請問SMF支援哪些資料庫格式?
+
+    SMF支持以下資料庫:MySQL/MSSQL/Postgresql/SQLite 
+
+Q4:請問SMF是否支持SSL加密傳輸?
+
+    是的SMF支持SSL加密傳輸,只要伺服器有啟用SSL加密傳輸,SMF即可使用 
+
+Q5:請問SMF支援哪些語系?
+
+    SMF支持多國語系架構,惟官方網站僅提供英文版本免費下載 
+
+Q6:請問SMF是否可以串接行事曆?
+
+    SMF的行事曆模組可以串接標準格式輸出之行事曆,如ical 
+
+Q7:SMF支持哪些行動載具?
+
+    SMF支持ios/android/黑莓機等系統,除支持手機外也支持平版電腦與電腦版 
+
+Q8:SMF提供幾種樣板?
+
+    目前我們預設提供5種樣板,也支持自行設計之樣板,套版流程簡單 
+
+Q9:SMF需要額外安裝在伺服器上嗎?
+
+    SMF主要提供串接服務,硬體需求不高,可透過虛擬主機即可運作 
+
+Q10:SMF需安裝於那一種作業環境上面?
+
+    可安裝於windows或是Linux伺服上面,僅需於伺服器上面安裝apache與php5即可 
+
+Q11:請問SMF的通訊錄模組支持ldap嗎?
+
+    是的SMF的通訊模組是支持ldap的通訊錄 
+
+Q12:請問SMF支持Facebook認証嗎?
+
+    是的SMF的認証模組除支持Facebook認証外,也支持Google的帳號認証 
+
+Q13:請問SMF支援的地圖格式?
+
+    SMF是支持所有標準格式,地圖模組支持kml/kmz標準格式 
